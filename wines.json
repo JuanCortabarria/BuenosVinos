@@ -1,0 +1,149 @@
+[
+  {
+    "marca": "Angélica Zapata",
+    "nombre": "Malbec Alta",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.3,
+    "foto": "assets/angelica-malbec.jpg",
+    "disponible": true,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1645.0,
+    "precio_referencia_uyu": 2350,
+    "unidades": 4
+  },
+  {
+    "marca": "Angélica Zapata",
+    "nombre": "Cabernet Franc Alta",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/angelica-franc.png",
+    "disponible": true,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1725.0,
+    "precio_referencia_uyu": 2300
+  },
+  {
+    "marca": "Catena Zapata",
+    "nombre": "Malbec Argentino 2025",
+    "detalle": "Cosecha 2025 · 750 ml",
+    "descuento": 0.2,
+    "foto": "assets/malbec-argentino.jpg",
+    "disponible": true,
+    "tipo": "Tinto",
+    "precio_final_uyu": 3352.0,
+    "precio_referencia_uyu": 4190
+  },
+  {
+    "marca": "Catena Zapata",
+    "nombre": "Malbec Argentino 2022",
+    "detalle": "Cosecha 2022 · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/malbec-argentino.jpg",
+    "disponible": true,
+    "tipo": "Tinto",
+    "precio_final_uyu": 2992.5,
+    "precio_referencia_uyu": 3990
+  },
+  {
+    "marca": "Gran Enemigo",
+    "nombre": "Gualtallary Cabernet Franc",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0,
+    "foto": "assets/gran-enemigo.webp",
+    "disponible": true,
+    "tipo": "Tinto",
+    "precio_referencia_uyu": 3990,
+    "precio_final_uyu": 3990
+  },
+  {
+    "marca": "Luigi Bosca",
+    "nombre": "Cabernet Sauvignon",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.35,
+    "foto": "assets/luigi-bosca-cabernet.webp",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 682.5,
+    "precio_referencia_uyu": 1050
+  },
+  {
+    "marca": "Angélica Zapata",
+    "nombre": "Chardonnay Alta",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/angelica-chardonnay.jpg",
+    "disponible": false,
+    "tipo": "Blanco",
+    "precio_final_uyu": 1642.5
+  },
+  {
+    "marca": "Angélica Zapata",
+    "nombre": "Merlot Alta",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/angelica-merlot.jpg",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1492.5
+  },
+  {
+    "marca": "El Enemigo",
+    "nombre": "Cabernet Franc",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/enemigo-franc.jpg",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1342.5
+  },
+  {
+    "marca": "D.V. Catena",
+    "nombre": "Malbec - Malbec",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/dv-malbec.jpg",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1042.5
+  },
+  {
+    "marca": "D.V. Catena",
+    "nombre": "Cabernet - Malbec",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/dv-cabernet.jpg",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 937.5
+  },
+  {
+    "marca": "Angélica Zapata",
+    "nombre": "Cabernet Sauvignon Alta",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/angelica-sauvignon.jpg",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1192.5
+  },
+  {
+    "marca": "El Enemigo",
+    "nombre": "Malbec",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/enemigo-malbec.jpg",
+    "disponible": false,
+    "tipo": "Tinto",
+    "precio_final_uyu": 1042.5
+  },
+  {
+    "marca": "D.V. Catena",
+    "nombre": "Chardonnay - Chardonnay",
+    "detalle": "Mendoza · 750 ml",
+    "descuento": 0.25,
+    "foto": "assets/dv-chardonnay.jpg",
+    "disponible": false,
+    "tipo": "Blanco",
+    "precio_final_uyu": 937.5
+  }
+]
