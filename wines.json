@@ -59,11 +59,11 @@
     "marca": "Luigi Bosca",
     "nombre": "Cabernet Sauvignon",
     "detalle": "Mendoza · 750 ml",
-    "descuento": 0.35,
+    "descuento": 0.44,
     "foto": "assets/luigi-bosca-cabernet.webp",
     "disponible": false,
     "tipo": "Tinto",
-    "precio_final_uyu": 682.5,
+    "precio_final_uyu": 588.0,
     "precio_referencia_uyu": 1050
   },
   {
