@@ -17,7 +17,8 @@ function wineCard(wine) {
  info.append(prices);card.append(photo,info);return card;
 }
 fetch('wines.json').then(r=>{if(!r.ok)throw new Error('Catalog unavailable');return r.json();}).then(wines=>{
- for(const wine of wines) document.querySelector(wine.disponible?'#available-wines':'#unavailable-wines').append(wineCard(wine));
- document.querySelector('.section-heading .count').textContent=`${wines.filter(w=>w.disponible).length} vinos`;
- document.querySelector('.out-heading .count').textContent=`${wines.filter(w=>!w.disponible).length} vinos`;
+ const grid=document.querySelector('#wines');
+ for(const wine of wines) grid.append(wineCard(wine));
+ const disponibles=wines.filter(w=>w.disponible).length;
+ document.querySelector('.section-heading .count').textContent=`${wines.length} vinos · ${disponibles} disponibles`;
 }).catch(()=>{document.querySelector('.load-error').hidden=false;});
